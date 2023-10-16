@@ -1,0 +1,9 @@
+[submodule "my-server"]
+	path = my-server
+	url = https://github.com/shubham22122001/ELITE_TIMEPIECES_ecommerce.git
+[submodule "server"]
+	path = server
+	url = https://github.com/shubham22122001/ELITE_TIMEPIECES_ecommerce.git
+[submodule "client"]
+	path = client
+	url = https://github.com/shubham22122001/ELITE_TIMEPIECES_ecommerce.git
